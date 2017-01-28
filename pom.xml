@@ -9,7 +9,8 @@
     <packaging>jar</packaging>
 
     <name>Configuration Server</name>
-    <description>Spring Cloud Config Server</description>
+    <url>https://github.com/mpalourdio/ConfigServer</url>
+    <description>Spring Cloud Configuration Server</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
@@ -17,6 +18,7 @@
         <version>1.4.3.RELEASE</version>
         <relativePath/>
     </parent>
+
     <scm>
         <developerConnection>scm:git:git@github.com:mpalourdio/SpringCloudConfigServer.git</developerConnection>
         <tag>HEAD</tag>
