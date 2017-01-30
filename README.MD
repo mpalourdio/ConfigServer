@@ -1,2 +1,2 @@
-Spring Cloud Config Server
-==========================
+Spring Cloud Configuration Server
+=================================
