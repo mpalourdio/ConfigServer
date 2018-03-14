@@ -13,7 +13,7 @@
     <description>Spring Cloud Configuration Server</description>
 
     <scm>
-        <developerConnection>scm:git:git@github.com:mpalourdio/SpringCloudConfigServer.git</developerConnection>
+        <developerConnection>scm:git:git@github.com:mpalourdio/ConfigServer.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
 
