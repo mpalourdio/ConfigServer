@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/mpalourdio/ConfigServer.svg?branch=master)](https://travis-ci.org/mpalourdio/ConfigServer)
+[![Build Status](https://github.com/mpalourdio/ConfigServer/workflows/CI/badge.svg?branch=master)](https://github.com/mpalourdio/ConfigServer/actions)
 
 Spring Cloud Configuration Server
 =================================
