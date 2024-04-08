@@ -3,3 +3,6 @@ properties/local.properties
 logs
 .idea/
 *.iml
+# gradle
+.gradle
+build
