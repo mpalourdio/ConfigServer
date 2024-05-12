@@ -1,4 +1,4 @@
-[![Build Status](https://github.com/mpalourdio/ConfigServer/workflows/CI/badge.svg?branch=master)](https://github.com/mpalourdio/ConfigServer/actions)
+[![CI](https://github.com/mpalourdio/ConfigServer/actions/workflows/main.yml/badge.svg)](https://github.com/mpalourdio/ConfigServer/actions/workflows/main.yml)
 
 Spring Cloud Configuration Server
 =================================
