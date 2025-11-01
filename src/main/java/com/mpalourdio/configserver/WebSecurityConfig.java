@@ -19,7 +19,7 @@ import org.springframework.security.web.SecurityFilterChain;
 public class WebSecurityConfig {
 
     @Bean
-    public SecurityFilterChain securityFilterChain(HttpSecurity http) throws Exception {
+    public SecurityFilterChain securityFilterChain(HttpSecurity http) {
         //we disable csrf for command line and leave basic auth enabled on all endpoints
         http.csrf(csrf -> csrf.ignoringRequestMatchers("/decrypt", "/encrypt"))
                 .authorizeHttpRequests(authorize -> authorize
